@@ -19,3 +19,6 @@ I am an architecture student who believes software will reshape the way architec
 <a href="https://github.com/tandpfun/skill-icons"><img src="https://skillicons.dev/icons?i=autocad&theme=dark" alt="AutoCAD" width="48" height="48"></a>
 <img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Rhino3D.svg" alt="Rhinoceros 3D" width="48" height="48">
 <a href="https://github.com/tandpfun/skill-icons"><img src="https://skillicons.dev/icons?i=ps&theme=dark" alt="Photoshop" width="48" height="48"></a>
+<a href="https://github.com/tandpfun/skill-icons"><img src="https://skillicons.dev/icons?i=ai&theme=dark" alt="Photoshop" width="48" height="48"></a>
+
+*I like ducks*
