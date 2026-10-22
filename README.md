@@ -8,12 +8,16 @@
 
 ## About me
 
-I am an architecture student who believes software will reshape the way architecture is made. Understanding both tools will be key to success.
+Beginner developer here.
 
-## Student curriculum
+I dual-booted my computer so I could use it for both architecture and software studies (that's about as brief an introduction as I can make).
 
-- Architecture student at UAH
-- Software student at 42 Madrid
+I love learning and expressing my ideas through multidisciplinary design.
+
+## Studies
+
+- Architecture student at UAH (Ongoing)
+- Software student at 42 Madrid (Ongoing)
 
 ## Main tech
 
@@ -25,4 +29,4 @@ I am an architecture student who believes software will reshape the way architec
 <a href="https://github.com/tandpfun/skill-icons"><img src="https://skillicons.dev/icons?i=ps&theme=dark" alt="Photoshop" width="48" height="48"></a>
 <a href="https://github.com/tandpfun/skill-icons"><img src="https://skillicons.dev/icons?i=ai&theme=dark" alt="Photoshop" width="48" height="48"></a>
 
-*I like ducks*
+*“Science is what we understand well enough to explain to a computer, Art is all the rest.”*
