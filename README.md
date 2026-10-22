@@ -1,6 +1,6 @@
 ![Header](./header-banner.png)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/RareDuck?cardType=level&theme=gruvbox&fontFamily=&preferLogin=false&Background=000000&Title=DDDDDD&Ring=DD0000&Text=BDBDBD&Border=DD0000)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/RareDuck?cardType=level&theme=gruvbox&fontFamily=&preferLogin=false&Background=000000&Title=DDDDDD&Ring=AAAAAA&Text=BBBBBB&Border=000000)](https://git.io/awesome-stats-card)
 
 ## About me
 
