@@ -4,8 +4,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RareDuck&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RareDuck&layout=compact&theme=dark" height="150"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=RareDuck&include_all_commits=true&theme=dark&rank_icon=default&hide_border=true" height="150"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RareDuck&layout=compact&theme=dark" height="150"/>
 </p>
 
 
