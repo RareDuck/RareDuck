@@ -1,6 +1,13 @@
 ![Header](./header-banner.png)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/RareDuck?cardType=level&theme=gruvbox&fontFamily=&preferLogin=false&Background=000000&Title=DDDDDD&Ring=AAAAAA&Text=BBBBBB&Border=000000)](https://git.io/awesome-stats-card)
+
+
+
+<p align="justify">
+  <img src="https://github-readme-stats.vercel.app/api?username=RareDuck&theme=dark&hide_border=true" height="187"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RareDuck&layout=compact&theme=dark" height="187"/>
+</p>
+
 
 ## About me
 
