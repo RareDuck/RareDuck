@@ -3,9 +3,9 @@
 
 
 
-<p align="justify">
-  <img src="https://github-readme-stats.vercel.app/api?username=RareDuck&theme=dark&hide_border=true" height="187"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RareDuck&layout=compact&theme=dark" height="187"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RareDuck&theme=dark&hide_border=true" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RareDuck&layout=compact&theme=dark" height="190"/>
 </p>
 
 
